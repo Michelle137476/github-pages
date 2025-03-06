@@ -1,0 +1,16 @@
+<html>
+<title>Animales marinos 2</title>
+<link rel=stylesheet href="hojaestilo.css" type="text/css" media=screen>
+<center>
+<h1>Listado de animales marinos</h1>
+<table border="1" bordercolor="black">
+<tr bgcolor="82d7d3"><th>Animal</th><th>Nombre científico</th></tr>
+<tr><td>Tiburón blanco</td><td>Carcharodon carcharias</td></tr>
+<tr><td>Atún blanco</td><td>Thunnus alalunga</td></tr>
+<tr><td>Pez piedra</td><td>Synanceia horrida</td></tr>
+</table><br><br>
+<img src="https://concepto.de/wp-content/uploads/2019/07/animales-del-mar-marinos-acuaticos-ballena-azul-mamifero-e1562032745701.jpg" height="200" width="200">
+</center>
+<p>Conoce más sobre animales marinos <a href="animales marinos.html">aquí</a></p>
+</body>
+</html>
