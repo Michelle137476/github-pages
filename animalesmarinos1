@@ -1,0 +1,17 @@
+<html>
+<title>Animales Marinos</title>
+<link rel=stylesheet href="hojaestilo.css" type="text/css" media=screen>
+<body>
+<marquee behavior=slide><h1>Animales marinos</h1></marquee>
+<p>Los animales del mar son muy diversos en su naturaleza, ya que están distribuidos a lo largo de diversos entornos submarinos e integrados a cadenas tróficas sumamente específicas.</p><p>Así, es posible hallar representantes de prácticamente todo tipo: microorganismos o animales microscópicos; invertebrados como esponjas, gusanos, medusas y moluscos; artrópodos; equinodermos; una gran variedad de peces óseos y cartilaginosos; mamíferos de vida acuática; reptiles y anfibios, y en la superficie, recorriendo tierra, aire y agua, distintas especies de aves.</p>
+<h2><b>Animales más peligrosos</b></h2>
+<p>El tiburón<br>
+<img src="tiburon.jpg" height="100" width="100"><br><br>
+Pez sapo<br>
+<img src="pezsapo.jpg" height="100" width="100"><br><br>
+Las medusas<br>
+<img src="medusa.jpg" height="100" width="100"><br><br>
+Conoce más sobre animales marinos <a href="animales2.html">aquí</a>
+</p>
+</body>
+</html>
